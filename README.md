@@ -1,4 +1,4 @@
-### Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tasuj&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=tasuj&redirect=true)
 
 <!--
 **asuujx/asuujx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
