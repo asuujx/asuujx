@@ -1,12 +1,14 @@
 <p align="center">
-    # Hi there!
-    ## Welcome to my profile
+    Hi there!
 </p>
 
 <p align="center">
-    ## What I'm currently listening to
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=tasuj&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=tasuj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+    Welcome to my profile
+</p>
+
+<p align="center">
+    <a href="[https://spotify-github-profile.vercel.app/api/view?uid=tasuj&redirect=true](https://spotify-github-profile.vercel.app/api/view?uid=tasuj&redirect=true)">
+        <img src="[https://spotify-github-profile.vercel.app/api/view?uid=tasuj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.vercel.app/api/view?uid=tasuj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)" alt="spotify-github-profile" />
     </a>
 </p>
 
