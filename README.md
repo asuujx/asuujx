@@ -1,6 +1,14 @@
 <h1 align="center">
-    Hi there! 😶‍🌫️
+    Heyoo! :smirk_cat:
 </h1>
+
+<p align="center">
+    My Stack 🧑‍💻
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/balonpiotr/">
